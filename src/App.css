@@ -1,0 +1,23 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "IBM";
+  src: url("../public/fonts/IBMPlexSansArabic-Regular.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "IBM";
+  src: url("../public/fonts/IBMPlexSansArabic-Medium.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "IBM";
+  src: url("../public/fonts/IBMPlexSansArabic-Bold.ttf");
+  font-weight: 700;
+} */
